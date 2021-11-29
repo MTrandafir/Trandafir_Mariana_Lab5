@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trandafir_Mariana_Lab5", "Trandafir_Mariana_Lab5.csproj", "{467AE82C-FBE0-4599-9411-A9DE4A77AFC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel", "..\AutoLotModel\AutoLotModel.csproj", "{1ECBD75F-07AB-4775-B10D-BF34FB44276D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467AE82C-FBE0-4599-9411-A9DE4A77AFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467AE82C-FBE0-4599-9411-A9DE4A77AFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467AE82C-FBE0-4599-9411-A9DE4A77AFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467AE82C-FBE0-4599-9411-A9DE4A77AFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECBD75F-07AB-4775-B10D-BF34FB44276D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECBD75F-07AB-4775-B10D-BF34FB44276D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECBD75F-07AB-4775-B10D-BF34FB44276D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECBD75F-07AB-4775-B10D-BF34FB44276D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32CF3C80-7004-4645-A806-EADFE8C2332B}
+	EndGlobalSection
+EndGlobal
