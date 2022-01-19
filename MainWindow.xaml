@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Trandafir_Mariana_Lab5"
         xmlns:AutoLotModel="clr-namespace:AutoLotModel;assembly=AutoLotModel" x:Class="Trandafir_Mariana_Lab5.MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="731.01" Width="878.876" Loaded="Window_Loaded">
+        Title="MainWindow" Height="1105.218" Width="1430.034" Loaded="Window_Loaded">
     <Window.Resources>
         <CollectionViewSource x:Key="customerViewSource" d:DesignSource="{d:DesignInstance {x:Type AutoLotModel:Customer}, CreateList=True}"/>
         <CollectionViewSource x:Key="inventoryViewSource" d:DesignSource="{d:DesignInstance {x:Type AutoLotModel:Inventory}, CreateList=True}"/>
